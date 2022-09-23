@@ -22,6 +22,7 @@ namespace WPFTextEditor
     {
         public MainWindow()
         {
+            Console.WriteLine("Hello there");
             InitializeComponent();
         }
     }
